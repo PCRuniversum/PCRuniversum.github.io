@@ -3,48 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://pcruniversum.github.io/post/contributors/</loc>
+    <loc>https://example.com/post/contributors/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pcruniversum.github.io/imprint-gdpr/gdpr/</loc>
+    <loc>https://example.com/imprint-gdpr/gdpr/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pcruniversum.github.io/imprint-gdpr/imprint/</loc>
+    <loc>https://example.com/imprint-gdpr/imprint/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pcruniversum.github.io/post/about/</loc>
+    <loc>https://example.com/post/about/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pcruniversum.github.io/imprint-gdpr/</loc>
+    <loc>https://example.com/imprint-gdpr/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pcruniversum.github.io/categories/</loc>
+    <loc>https://example.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://pcruniversum.github.io/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://pcruniversum.github.io/post/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pcruniversum.github.io/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <priority>0</priority>
   </url>
   
