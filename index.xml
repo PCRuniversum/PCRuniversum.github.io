@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PCRuniversum</title>
-    <link>https://example.com/</link>
+    <link>https://pcruniversum.github.io/</link>
     <description>Recent content on PCRuniversum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pcruniversum.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contributors</title>
-      <link>https://example.com/post/contributors/</link>
+      <link>https://pcruniversum.github.io/post/contributors/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/contributors/</guid>
+      <guid>https://pcruniversum.github.io/post/contributors/</guid>
       <description>Authors and Contributors (in alphabetical order) Konstantin A. Blagodatskikh @kablag Maintainer of RDML package.
 ReasearchGate account: https://www.researchgate.net/profile/Konstantin_Blagodatskikh
 Michal Burdukiewicz @michbur Maintainer of dpcR package.
@@ -28,19 +28,19 @@ Mail: stefan.roediger[at]hs-lausitz.de</description>
     
     <item>
       <title>General Data Protection Regulation (GDPR)</title>
-      <link>https://example.com/imprint-gdpr/gdpr/</link>
+      <link>https://pcruniversum.github.io/imprint-gdpr/gdpr/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/imprint-gdpr/gdpr/</guid>
+      <guid>https://pcruniversum.github.io/imprint-gdpr/gdpr/</guid>
       <description>GDPR information are highly specific to the site. You may use a generator, e.g. Datenschutz-Generator</description>
     </item>
     
     <item>
       <title>Imprint</title>
-      <link>https://example.com/imprint-gdpr/imprint/</link>
+      <link>https://pcruniversum.github.io/imprint-gdpr/imprint/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/imprint-gdpr/imprint/</guid>
+      <guid>https://pcruniversum.github.io/imprint-gdpr/imprint/</guid>
       <description>Information according to § 5 TMG
 first and last name
 address
@@ -53,10 +53,10 @@ Disclaimer: Content Liability The contents of our pages were created with great 
     
     <item>
       <title>Plea for PCRuniversum</title>
-      <link>https://example.com/post/about/</link>
+      <link>https://pcruniversum.github.io/post/about/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/about/</guid>
+      <guid>https://pcruniversum.github.io/post/about/</guid>
       <description>Plea for pcRuniveRsum - R qPCR / dPCR / MCA Landscape Read on Stefan&amp;rsquo;s homepage.
 Packages in pcRuniveRsum (in alphabetical order) chipPCR Changelog of the stable version The chipPCR package is a toolkit of functions to preprocess amplification curve data. Amplification data can be obtained from conventional PCR reactions or isothermal amplification reactions. The package contains functions to normalize and baseline amplification curves, a routine to detect the start of an amplification reaction, several smoothers for amplification data, a function to distinguish positive and negative amplification reactions and a function to determine the amplification efficiency.</description>
     </item>
